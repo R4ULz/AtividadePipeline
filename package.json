@@ -1,0 +1,16 @@
+{
+  "name": "atividadepipeline",
+  "version": "1.0.0",
+  "description": "um salve quebrada do github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
